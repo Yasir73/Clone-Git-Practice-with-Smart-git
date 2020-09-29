@@ -1,0 +1,1 @@
+text is added to second text file for clone project and checking pull request
